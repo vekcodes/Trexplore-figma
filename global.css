@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-newake: Newake;
+  --font-news-cycle: "News Cycle";
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-21xl: 40px;
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-base: 16px;
+  --font-size-smi: 13px;
+  --font-size-xl: 20px;
+  --font-size-45xl: 64px;
+  --font-size-mini: 15px;
+  --font-size-13xl: 32px;
+  --font-size-8xl: 27px;
+  --font-size-31xl: 50px;
+  --font-size-17xl: 36px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #202445;
+  --color-gray-200: rgba(255, 255, 255, 0.6);
+  --color-gray-300: rgba(32, 36, 69, 0.5);
+  --color-tomato: #ff5737;
+  --color-darkslategray-100: #464646;
+  --color-darkslategray-200: #393939;
+  --color-darkslategray-300: rgba(70, 70, 70, 0.8);
+  --color-darkslategray-400: rgba(70, 70, 70, 0.4);
+  --color-lightsteelblue: #98c1d9;
+  --color-mediumslateblue: #5470ff;
+  --color-dimgray: rgba(79, 79, 79, 0.3);
+
+  /* border radiuses */
+  --br-smi: 13px;
+  --br-8xl: 27px;
+  --br-26xl: 45px;
+  --br-21xl: 40px;
+  --br-sm: 14px;
+  --br-24xl: 43px;
+  --br-7xs: 6px;
+  --br-34xl: 53px;
+  --br-8xs: 5px;
+}

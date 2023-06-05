@@ -1,0 +1,784 @@
+.booking-child {
+  position: absolute;
+  top: 1148px;
+  left: 0;
+  background: linear-gradient(
+    95.16deg,
+    rgba(255, 87, 55, 0.6),
+    rgba(152, 193, 217, 0.2)
+  );
+  width: 1440px;
+  height: 436px;
+}
+.logo-3-icon1 {
+  position: absolute;
+  top: 1195px;
+  left: 187px;
+  width: 79px;
+  height: 64px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.about1,
+.help1,
+.services2,
+.trexplore2 {
+  position: absolute;
+  font-family: var(--font-newake);
+  display: inline-block;
+}
+.trexplore2 {
+  top: 1208px;
+  left: 266px;
+  font-size: var(--font-size-21xl);
+  width: 187px;
+  height: 37px;
+  cursor: pointer;
+}
+.about1,
+.help1,
+.services2 {
+  top: 1310px;
+  font-size: var(--font-size-5xl);
+  width: 94px;
+  height: 18px;
+}
+.services2 {
+  left: 752px;
+  cursor: pointer;
+}
+.about1,
+.help1 {
+  left: 1009px;
+}
+.about1 {
+  left: 1266px;
+  cursor: pointer;
+}
+.facebook-1-11,
+.instagram-1-icon1,
+.linkedin-1-icon1,
+.twitter-1-icon1 {
+  position: absolute;
+  top: 1211px;
+  left: 1126px;
+  width: 34px;
+  height: 34px;
+  object-fit: cover;
+}
+.instagram-1-icon1,
+.linkedin-1-icon1,
+.twitter-1-icon1 {
+  left: 1186px;
+}
+.linkedin-1-icon1,
+.twitter-1-icon1 {
+  left: 1247px;
+}
+.linkedin-1-icon1 {
+  left: 1307px;
+}
+.curated-paths2 {
+  position: absolute;
+  top: 1350px;
+  left: 752px;
+  display: inline-block;
+  width: 106px;
+  height: 29px;
+  cursor: pointer;
+}
+.contact-us1,
+.our-story1,
+.subscribe-to-our1 {
+  position: absolute;
+  top: 1286px;
+  left: 217px;
+  display: inline-block;
+  width: 235px;
+  height: 29px;
+}
+.contact-us1,
+.our-story1 {
+  top: 1350px;
+  left: 1009px;
+  width: 106px;
+}
+.our-story1 {
+  top: 1349px;
+  left: 1266px;
+  cursor: pointer;
+}
+.accessibility1,
+.bookings2,
+.careers1,
+.communities2,
+.faq1 {
+  position: absolute;
+  top: 1386px;
+  display: inline-block;
+  width: 105px;
+  height: 30px;
+}
+.bookings2 {
+  left: 753px;
+  cursor: pointer;
+}
+.accessibility1,
+.careers1,
+.communities2,
+.faq1 {
+  left: 1010px;
+}
+.accessibility1,
+.careers1,
+.communities2 {
+  top: 1385px;
+  left: 1267px;
+}
+.accessibility1,
+.communities2 {
+  top: 1423px;
+  left: 752px;
+}
+.accessibility1 {
+  left: 1009px;
+}
+.booking-inner,
+.booking-item {
+  position: absolute;
+  top: 1328px;
+  left: 205px;
+  border-radius: var(--br-8xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 104px rgba(0, 0, 0, 0.25);
+  width: 259px;
+  height: 41px;
+}
+.booking-inner {
+  top: 1329px;
+  left: 484px;
+  width: 105px;
+}
+.copyright-20231,
+.enter-your-email1,
+.subscribe1 {
+  position: absolute;
+  top: 1334px;
+  left: 499px;
+  display: inline-block;
+  width: 75px;
+  height: 29px;
+}
+.copyright-20231,
+.enter-your-email1 {
+  left: 226px;
+  color: var(--color-gray-300);
+  width: 126px;
+}
+.copyright-20231 {
+  top: 1548px;
+  left: 615px;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray-100);
+  width: 336px;
+}
+.booking-child1 {
+  position: absolute;
+  top: 13px;
+  left: 99px;
+  border-radius: var(--br-8xl);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 104px rgba(0, 0, 0, 0.25);
+  width: 1242px;
+  height: 65px;
+}
+.booking-child2,
+.logo-1-icon1 {
+  position: absolute;
+  cursor: pointer;
+}
+.booking-child2 {
+  top: 27px;
+  left: 1220px;
+  border-radius: var(--br-smi);
+  background-color: var(--color-tomato);
+  width: 93px;
+  height: 36px;
+}
+.logo-1-icon1 {
+  top: 17px;
+  left: 108px;
+  width: 79px;
+  height: 64px;
+  object-fit: cover;
+}
+.booking2,
+.home2 {
+  font-size: var(--font-size-5xl);
+  height: 18px;
+}
+.home2 {
+  position: absolute;
+  top: 36px;
+  left: 629px;
+  font-family: var(--font-newake);
+  display: inline-block;
+  width: 78px;
+  cursor: pointer;
+}
+.booking2 {
+  left: 737px;
+}
+.about-us2,
+.booking2,
+.services3 {
+  position: absolute;
+  top: 36px;
+  font-family: var(--font-newake);
+  display: inline-block;
+  width: 101px;
+  cursor: pointer;
+}
+.services3 {
+  left: 868px;
+  font-size: var(--font-size-5xl);
+  height: 18px;
+}
+.about-us2 {
+  left: 999px;
+}
+.about-us2,
+.login1,
+.signup1 {
+  font-size: var(--font-size-5xl);
+  height: 18px;
+}
+.login1 {
+  position: absolute;
+  top: 36px;
+  left: 1139px;
+  font-family: var(--font-newake);
+  display: inline-block;
+  width: 60px;
+}
+.signup1 {
+  top: 35px;
+  left: 1231px;
+  width: 77px;
+}
+.book-guides,
+.signup1,
+.trexplore3 {
+  position: absolute;
+  font-family: var(--font-newake);
+  display: inline-block;
+}
+.trexplore3 {
+  top: 27px;
+  left: 181px;
+  font-size: var(--font-size-21xl);
+  width: 187px;
+  height: 37px;
+  cursor: pointer;
+}
+.book-guides {
+  top: 170px;
+  left: 417px;
+  font-size: var(--font-size-45xl);
+  width: 606px;
+  height: 53px;
+}
+.booking-child3,
+.booking-child4 {
+  position: absolute;
+  top: 360px;
+  left: 99px;
+  border-radius: var(--br-34xl);
+  background-color: var(--color-white);
+  box-shadow: 10px 23px 51px -14px rgba(0, 0, 0, 0.5);
+  width: 572px;
+  height: 757px;
+}
+.booking-child4 {
+  top: 363px;
+  left: 737px;
+  width: 587px;
+}
+.top-rated-guides,
+.top-rated-hotels {
+  position: absolute;
+  top: 407px;
+  left: 156px;
+  font-size: var(--font-size-17xl);
+  font-family: var(--font-newake);
+  display: inline-block;
+  width: 411px;
+  height: 39px;
+}
+.top-rated-hotels {
+  left: 810px;
+}
+.booking-child5,
+.booking-child6,
+.ellipse-div {
+  position: absolute;
+  top: 496px;
+  left: 156px;
+  border-radius: 50%;
+  background-color: var(--color-tomato);
+  width: 69px;
+  height: 69px;
+}
+.booking-child5,
+.booking-child6 {
+  top: 602px;
+}
+.booking-child6 {
+  top: 713px;
+}
+.booking-child10,
+.booking-child11,
+.booking-child12,
+.booking-child13,
+.booking-child7,
+.booking-child8,
+.booking-child9 {
+  position: absolute;
+  top: 824px;
+  left: 156px;
+  border-radius: 50%;
+  background-color: var(--color-tomato);
+  width: 69px;
+  height: 69px;
+}
+.booking-child10,
+.booking-child11,
+.booking-child12,
+.booking-child13,
+.booking-child8,
+.booking-child9 {
+  top: 935px;
+}
+.booking-child10,
+.booking-child11,
+.booking-child12,
+.booking-child13,
+.booking-child9 {
+  top: 499px;
+  left: 810px;
+}
+.booking-child10,
+.booking-child11,
+.booking-child12,
+.booking-child13 {
+  top: 605px;
+}
+.booking-child11,
+.booking-child12,
+.booking-child13 {
+  top: 716px;
+}
+.booking-child12,
+.booking-child13 {
+  top: 827px;
+}
+.booking-child13 {
+  top: 938px;
+}
+.rostislav-grigoriy {
+  position: absolute;
+  top: 507px;
+  left: 243px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-newake);
+  display: inline-block;
+  width: 190px;
+  height: 24px;
+}
+.rostislav-grigoriy1,
+.rostislav-grigoriy2,
+.rostislav-grigoriy3,
+.rostislav-grigoriy4,
+.yak-yeti,
+.yak-yeti1,
+.yak-yeti2,
+.yak-yeti3,
+.yak-yeti4 {
+  position: absolute;
+  top: 613px;
+  left: 243px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-newake);
+  display: inline-block;
+  width: 190px;
+  height: 24px;
+}
+.rostislav-grigoriy2,
+.rostislav-grigoriy3,
+.rostislav-grigoriy4,
+.yak-yeti,
+.yak-yeti1,
+.yak-yeti2,
+.yak-yeti3,
+.yak-yeti4 {
+  top: 724px;
+}
+.rostislav-grigoriy3,
+.rostislav-grigoriy4,
+.yak-yeti,
+.yak-yeti1,
+.yak-yeti2,
+.yak-yeti3,
+.yak-yeti4 {
+  top: 835px;
+}
+.rostislav-grigoriy4,
+.yak-yeti,
+.yak-yeti1,
+.yak-yeti2,
+.yak-yeti3,
+.yak-yeti4 {
+  top: 946px;
+}
+.yak-yeti,
+.yak-yeti1,
+.yak-yeti2,
+.yak-yeti3,
+.yak-yeti4 {
+  top: 510px;
+  left: 897px;
+}
+.yak-yeti1,
+.yak-yeti2,
+.yak-yeti3,
+.yak-yeti4 {
+  top: 616px;
+}
+.yak-yeti2,
+.yak-yeti3,
+.yak-yeti4 {
+  top: 727px;
+}
+.yak-yeti3,
+.yak-yeti4 {
+  top: 838px;
+}
+.yak-yeti4 {
+  top: 949px;
+}
+.stars-rated,
+.stars-rated1,
+.stars-rated2,
+.stars-rated3,
+.stars-rated4 {
+  position: absolute;
+  top: 536px;
+  left: 243px;
+  display: inline-block;
+  width: 150px;
+  height: 29px;
+}
+.stars-rated1,
+.stars-rated2,
+.stars-rated3,
+.stars-rated4 {
+  top: 642px;
+}
+.stars-rated2,
+.stars-rated3,
+.stars-rated4 {
+  top: 753px;
+}
+.stars-rated3,
+.stars-rated4 {
+  top: 864px;
+}
+.stars-rated4 {
+  top: 975px;
+}
+.star-rated,
+.star-rated1,
+.star-rated2,
+.star-rated3,
+.star-rated4 {
+  position: absolute;
+  top: 539px;
+  left: 897px;
+  display: inline-block;
+  width: 150px;
+  height: 29px;
+}
+.star-rated1,
+.star-rated2,
+.star-rated3,
+.star-rated4 {
+  top: 645px;
+}
+.star-rated2,
+.star-rated3,
+.star-rated4 {
+  top: 756px;
+}
+.star-rated3,
+.star-rated4 {
+  top: 867px;
+}
+.star-rated4 {
+  top: 978px;
+}
+.km-far,
+.km-far1,
+.km-far2,
+.km-far3,
+.nearby,
+.nearby1,
+.nearby2,
+.nearby3,
+.nearby4,
+.nearby5 {
+  position: absolute;
+  top: 501px;
+  left: 501px;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  width: 60px;
+  height: 29px;
+}
+.km-far,
+.km-far1,
+.km-far2,
+.km-far3,
+.nearby1,
+.nearby2,
+.nearby3,
+.nearby4,
+.nearby5 {
+  top: 607px;
+}
+.km-far1,
+.km-far2,
+.km-far3,
+.nearby1,
+.nearby2,
+.nearby3,
+.nearby4,
+.nearby5 {
+  top: 718px;
+}
+.km-far1,
+.km-far2,
+.km-far3,
+.nearby2,
+.nearby3,
+.nearby4,
+.nearby5 {
+  top: 829px;
+}
+.km-far2,
+.km-far3,
+.nearby2,
+.nearby3,
+.nearby4,
+.nearby5 {
+  top: 940px;
+}
+.km-far2,
+.km-far3,
+.nearby3,
+.nearby4,
+.nearby5 {
+  top: 504px;
+  left: 1155px;
+}
+.km-far2,
+.km-far3,
+.nearby4,
+.nearby5 {
+  top: 610px;
+}
+.km-far3,
+.nearby4,
+.nearby5 {
+  top: 721px;
+  width: 74px;
+}
+.nearby4,
+.nearby5 {
+  top: 832px;
+  width: 60px;
+}
+.nearby5 {
+  top: 943px;
+}
+.booking-child14,
+.booking-child15,
+.booking-child16 {
+  position: absolute;
+  top: 543px;
+  left: 1080px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-tomato);
+  width: 75px;
+  height: 25px;
+}
+.booking-child15,
+.booking-child16 {
+  top: 649px;
+}
+.booking-child16 {
+  top: 760px;
+}
+.booking-child17,
+.booking-child18,
+.booking-child19,
+.booking-child20,
+.booking-child21,
+.booking-child22,
+.booking-child23 {
+  position: absolute;
+  top: 871px;
+  left: 1080px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-tomato);
+  width: 75px;
+  height: 25px;
+}
+.booking-child18,
+.booking-child19,
+.booking-child20,
+.booking-child21,
+.booking-child22,
+.booking-child23 {
+  top: 982px;
+}
+.booking-child19,
+.booking-child20,
+.booking-child21,
+.booking-child22,
+.booking-child23 {
+  top: 537px;
+  left: 433px;
+}
+.booking-child20,
+.booking-child21,
+.booking-child22,
+.booking-child23 {
+  top: 643px;
+}
+.booking-child21,
+.booking-child22,
+.booking-child23 {
+  top: 754px;
+}
+.booking-child22,
+.booking-child23 {
+  top: 865px;
+}
+.booking-child23 {
+  top: 976px;
+}
+.book-now,
+.book-now1,
+.book-now2,
+.book-now3,
+.book-now4,
+.book-now5,
+.book-now6,
+.book-now7,
+.book-now8,
+.book-now9 {
+  position: absolute;
+  top: 542px;
+  left: 1088px;
+  font-size: var(--font-size-mini);
+  display: inline-block;
+  width: 67px;
+  height: 29px;
+}
+.book-now1,
+.book-now2,
+.book-now3,
+.book-now4,
+.book-now5,
+.book-now6,
+.book-now7,
+.book-now8,
+.book-now9 {
+  top: 648px;
+}
+.book-now2,
+.book-now3,
+.book-now4,
+.book-now5,
+.book-now6,
+.book-now7,
+.book-now8,
+.book-now9 {
+  top: 759px;
+}
+.book-now3,
+.book-now4,
+.book-now5,
+.book-now6,
+.book-now7,
+.book-now8,
+.book-now9 {
+  top: 870px;
+}
+.book-now4,
+.book-now5,
+.book-now6,
+.book-now7,
+.book-now8,
+.book-now9 {
+  top: 981px;
+}
+.book-now5,
+.book-now6,
+.book-now7,
+.book-now8,
+.book-now9 {
+  top: 536px;
+  left: 441px;
+}
+.book-now6,
+.book-now7,
+.book-now8,
+.book-now9 {
+  top: 642px;
+}
+.book-now7,
+.book-now8,
+.book-now9 {
+  top: 753px;
+}
+.book-now8,
+.book-now9 {
+  top: 864px;
+}
+.book-now9 {
+  top: 975px;
+}
+.hotel-1-icon,
+.tour-guide-1-icon {
+  position: absolute;
+  top: 389px;
+  left: 572px;
+  width: 53px;
+  height: 53px;
+  object-fit: cover;
+}
+.hotel-1-icon {
+  left: 1215px;
+}
+.booking1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1584px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lgi);
+  color: var(--color-gray-100);
+  font-family: var(--font-news-cycle);
+}
